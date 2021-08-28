@@ -1,0 +1,73 @@
+h1{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    word-spacing: 5px; letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+hr{
+    width: 100px;
+    background-color: orange;
+    border: 3px solid orange; 
+    margin: 0px auto 20px auto;
+}
+h5{
+    font-size: 1.1rem;
+    font-family: unset;
+
+}
+h1
+{
+    font-size: 39px;
+}
+/* p{
+    font-size: 39px;
+} */
+.btn-primary{
+    background-color: orange;
+    border-color: orange;
+}
+.btn-primary:hover
+{
+    background-color: transparent;
+    color: orange;
+    border-color: orange;
+}
+.card-text
+{
+    color: orange;
+}
+.small, small
+{
+    font-size: .5em;
+}
+.btn-primary
+{
+    padding: 10px 30px;
+    display: block;
+    width: 180px;
+}
+.card-header h1
+{
+    text-align: start;
+    font-size: 3rem;
+}
+.card-text p
+{
+
+}
+.card-body
+{
+    padding:  0;
+}
+.card-header,
+.collec
+{
+    padding: 1rem;
+}
+.collec i
+{
+    color: orange;
+    margin-right: 5px;
+}
